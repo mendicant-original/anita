@@ -1,8 +1,8 @@
 require_relative "../lib/anita"
 
 module EchoPlugin
-  def self.process(message)
-    "::ECHO:: #{message.text}"
+  def self.process(m)
+    "did you hear what #{m.usernick} just said? '#{m.text}'"
   end
 
   def self.usage
