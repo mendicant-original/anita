@@ -1,5 +1,17 @@
-The replacement for [mendibot](https://github.com/mendicant-university/mendibot).
+# Anita
 
-I wrote this for Jordan...
+A group up re-write of Mendicant University's beloved IRC bot,
+[Mendibot](https://github.com/mendicant-university/mendibot)
 
-![troll](http://cache.ohinternet.com/images/thumb/2/2d/Trollface_HD.png/615px-Trollface_HD.png)
+## Contributing
+
+**We are currently not accepting patches for Anita. Watch this repo for
+more information.**
+
+## License
+
+TBD
+
+------
+
+Anita - a [Mendicant University](http://mendicantuniversity.org) project
