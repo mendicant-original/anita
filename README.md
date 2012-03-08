@@ -1,6 +1,6 @@
 # Anita
 
-A group up re-write of Mendicant University's beloved IRC bot,
+A ground up re-write of Mendicant University's beloved IRC bot,
 [Mendibot](https://github.com/mendicant-university/mendibot)
 
 ## Contributing
